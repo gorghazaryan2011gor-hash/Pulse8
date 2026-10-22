@@ -69,10 +69,10 @@
    ```bash
    npm install
    ```
-2.5. **Если в варианте 2 ошибка то**
-       ``` bash
-      npm install --legacy-peer-deps
-       ```
+ 2.5. **Если в варианте 2 ошибка то**
+       ```bash
+   npm install --legacy-peer-deps
+   ```
        
 3. **Запустите сервер разработки:**
    ```bash
