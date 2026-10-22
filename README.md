@@ -70,8 +70,8 @@
 
 1. **Клонируйте репозиторий с вашего GitHub(или скачай проект):**
    ```bash
-   git clone https://github.com/gorghazaryan2011gor-hash/Xz.git
-   cd Xz
+   git clone https://github.com/gorghazaryan2011gor-hash/Pulse8.git
+   cd Pulse8
    ```
 
 2. **Установите зависимости:**
