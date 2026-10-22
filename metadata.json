@@ -1,0 +1,6 @@
+{
+  "name": "PULSE-8 | Web Groovebox & Synth Studio",
+  "description": "Professional 16-step drum machine, polyphonic synthesizer, real-time audio visualizer, master FX rack, and instant WAV audio exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
