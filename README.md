@@ -68,7 +68,7 @@
 
 #### Шаги:
 
-1. **Клонируйте репозиторий с вашего GitHub:**
+1. **Клонируйте репозиторий с вашего GitHub(или скачай проект):**
    ```bash
    git clone https://github.com/gorghazaryan2011gor-hash/Xz.git
    cd Xz
@@ -91,25 +91,6 @@
 
 ---
 
-### Вариант 3: Сборка и деплой на хостинг (Vercel, Netlify, Cloudflare Pages)
-
-1. **Сборка для продакшена:**
-   ```bash
-   npm run build
-   ```
-   В результате в папке `dist/` появится полностью скомпилированный, оптимизированный статический сайт.
-
-2. **Просмотр собранного проекта локально:**
-   ```bash
-   npm run preview
-   ```
-
-3. **Деплой в один клик:**
-   - **Vercel**: импортируйте репозиторий `gorghazaryan2011gor-hash/Xz` на [vercel.com](https://vercel.com) — фреймворк определится автоматически как Vite.
-   - **Netlify**: подключите репозиторий на [netlify.com](https://netlify.com), команда сборки `npm run build`, папка публикации `dist`.
-   - **GitHub Pages**: включите GitHub Pages в настройках репозитория (Settings -> Pages -> Deploy from a branch / GitHub Actions).
-
----
 
 ## ⌨️ Горячие клавиши (Hotkeys)
 
